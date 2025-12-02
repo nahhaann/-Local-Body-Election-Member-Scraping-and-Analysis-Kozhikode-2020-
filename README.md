@@ -162,4 +162,23 @@ Tools used:
 
   - Independent wins occurred mainly in rural or less competitive wards.
 
+## 🧩 Skills Demonstrated
+
+- Web Scraping: Automated data extraction from government election portals using Python, Requests, and BeautifulSoup.
+
+- Data Cleaning & Wrangling: Standardized raw HTML data, handled missing values, normalized text, and cleaned age/party fields using Pandas.
+
+- Feature Engineering: Built a custom rule-based name-matching logic to infer religion/community categories.
+
+- Exploratory Data Analysis (EDA): Analyzed party dominance, community representation, and demographic patterns using Matplotlib and Seaborn.
+
+- Problem Solving: Converted unstructured web data into a structured, analysis-ready dataset with insightful interpretations.
+
+- Data Visualization: Created clear charts to communicate political and demographic trends effectively.
+
+## 🏁 Conclusion
+
+This project successfully transformed unstructured election results from lsgkerala.gov.in into a clean, enriched, and analyzable dataset. By integrating web scraping, data cleaning, demographic inference, and visual analytics, the project reveals meaningful insights into party dominance, community representation, and age trends in the 2020 Kozhikode local body elections.
+It highlights how data can be used to understand grassroots political behavior and demonstrates strong end-to-end data analytics and engineering capabilities — from extraction to insight.
+
 # -Local-Body-Election-Member-Scraping-and-Analysis-Kozhikode-2020-
