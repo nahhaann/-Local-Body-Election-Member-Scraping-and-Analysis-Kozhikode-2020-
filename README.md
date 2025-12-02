@@ -113,23 +113,23 @@ This step adds demographic depth to the dataset, enabling powerful community-lev
 ## 4️⃣ Exploratory Data Analysis (EDA)
 Party-Wise Analysis
 
-- Count of elected members by party
+  - Count of elected members by party
 
-- Visualization using bar charts
+  - Visualization using bar charts
 
-- Identification of dominant parties in Kozhikode
+  - Identification of dominant parties in Kozhikode
 
 Community (Religion) Analysis
 
-- Distribution of Hindu/Muslim/Christian members
+  - Distribution of Hindu/Muslim/Christian members
 
-- Inferring political affinity patterns at the community level
+  - Inferring political affinity patterns at the community level
 
 Age Distribution Analysis
 
-- Age ranges (min, max, average)
+  - Age ranges (min, max, average)
 
-- Representation of younger vs older candidates
+  - Representation of younger vs older candidates
 
 Tools used:
 
@@ -142,31 +142,24 @@ Tools used:
 📈 Key Insights
 1. Political Dominance
 
-- LDF emerged as the strongest coalition in Kozhikode based on seat count.
+  - LDF emerged as the strongest coalition in Kozhikode based on seat count.
 
-- UDF and BJP had limited representation in many wards.
+  - UDF and BJP had limited representation in many wards.
 
 2. Community Representation
 
-- The Muslim community had the highest representation among elected members.
+  - The Muslim community had the highest representation among elected members.
 
-- Hindu and Christian members followed in proportion consistent with Kozhikode’s demographics.
+  - Hindu and Christian members followed in proportion consistent with Kozhikode’s demographics.
 
 3. Age Trends
 
-- Most elected members belonged to the 35–55 years age group, showing voter preference for mid-aged leaders.
+  - Most elected members belonged to the 35–55 years age group, showing voter preference for mid-aged leaders.
 
 4. Community–Party Patterns
 
-- Certain parties showed clear demographic alignment in specific wards.
+  - Certain parties showed clear demographic alignment in specific wards.
 
-- Independent wins occurred mainly in rural or less competitive wards.
+  - Independent wins occurred mainly in rural or less competitive wards.
 
-🛠️ Tech Stack & Tools
-Category	Tools Used
-Scraping	Requests, BeautifulSoup
-Data Cleaning	Pandas, NumPy
-Feature Engineering	Regex, Custom Python logic
-Visualization	Matplotlib, Seaborn
-Development	Jupyter Notebook
 # -Local-Body-Election-Member-Scraping-and-Analysis-Kozhikode-2020-
