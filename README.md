@@ -111,7 +111,7 @@ Approach:
 This step adds demographic depth to the dataset, enabling powerful community-level analysis.
 
 ## 4️⃣ Exploratory Data Analysis (EDA)
-Party-Wise Analysis
+- Party-Wise Analysis
 
   - Count of elected members by party
 
@@ -119,13 +119,13 @@ Party-Wise Analysis
 
   - Identification of dominant parties in Kozhikode
 
-Community (Religion) Analysis
+- Community (Religion) Analysis
 
   - Distribution of Hindu/Muslim/Christian members
 
   - Inferring political affinity patterns at the community level
 
-Age Distribution Analysis
+- Age Distribution Analysis
 
   - Age ranges (min, max, average)
 
